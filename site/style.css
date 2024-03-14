@@ -1,10 +1,11 @@
 <style>
-	.text-center {
+.text-center {
   text-align: center;
   color: red;
+  font-size: 120%;
 }
 .container {
-  border: 1px solid #ccc;
+  border: 1px solid burlywood;
   padding: 20px;
   margin: 10px;
 }
@@ -14,6 +15,7 @@ h1{
   color: blue;
   font-size: 50px;
   font-style: italic;
+  text-transform: capitalize;
 
 }
 div{
@@ -25,4 +27,42 @@ div{
 footer{
   color: darkblue;
   font-size: 25px;
+}
+.box{
+  padding: 10px 10px 10px 10px;
+  background-color: aliceblue;
+  border: 3px solid black;
+  margin: 40px;
+  text-align: center;
+}
+body{
+  margin-bottom: 30px;
+}
+#floating{
+  float: left;
+  width: 500px;
+  height: 150px;
+  margin-left: 120px;
+  font-size: 22px;
+
+}
+#p1{
+  background-color: gray;
+  width: 300px;
+  height: 300px;
+  border: 1px solid black;
+
+}
+#p2{
+  background-color: red;
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+
+}
+@media (min-width=1200px){
+  #p1{
+    width: 80%}
+  #p2{width: 150px;height: 150px}
+}
 </style>
