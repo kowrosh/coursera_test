@@ -1,0 +1,22 @@
+2024-04-20 00:00:53,220 [1] INFO  Log1 - MyAppExit Begin
+2024-04-20 00:00:53,378 [1] INFO  Log1 - MyAppExit End
+2024-04-20 09:25:05,079 [1] INFO  Log1 - v2rayN start up | v2rayN - V5.39 - 2022/12/13 | C:\v2rayN-Core\v2rayN-Core\v2rayN.exe
+2024-04-20 09:26:05,306 [4] INFO  Log1 - UpdateTaskRun
+2024-04-20 09:34:36,306 [1] INFO  Log1 - MyAppExit Begin
+2024-04-20 09:34:36,516 [1] INFO  Log1 - MyAppExit End
+2024-04-20 09:34:36,541 [1] INFO  Log1 - MyAppExit Begin
+2024-04-20 09:34:36,578 [1] INFO  Log1 - MyAppExit End
+2024-04-20 09:34:47,899 [1] INFO  Log1 - v2rayN start up | v2rayN - V5.39 - 2022/12/13 | C:\v2rayN-Core\v2rayN-Core\v2rayN.exe
+2024-04-20 09:35:48,140 [4] INFO  Log1 - UpdateTaskRun
+2024-04-20 11:13:08,004 [1] INFO  Log1 - MyAppExit Begin
+2024-04-20 11:13:08,147 [1] INFO  Log1 - MyAppExit End
+2024-04-20 14:25:48,045 [1] INFO  Log1 - v2rayN start up | v2rayN - V5.39 - 2022/12/13 | C:\v2rayN-Core\v2rayN-Core\v2rayN.exe
+2024-04-20 14:26:48,297 [4] INFO  Log1 - UpdateTaskRun
+2024-04-20 16:06:22,565 [1] INFO  Log1 - MyAppExit Begin
+2024-04-20 16:06:22,774 [1] INFO  Log1 - MyAppExit End
+2024-04-20 16:06:22,795 [1] INFO  Log1 - MyAppExit Begin
+2024-04-20 16:06:22,815 [1] INFO  Log1 - MyAppExit End
+2024-04-20 20:41:00,367 [1] INFO  Log1 - v2rayN start up | v2rayN - V5.39 - 2022/12/13 | C:\v2rayN-Core\v2rayN-Core\v2rayN.exe
+2024-04-20 20:42:00,597 [4] INFO  Log1 - UpdateTaskRun
+2024-04-20 23:40:56,750 [1] INFO  Log1 - MyAppExit Begin
+2024-04-20 23:40:56,909 [1] INFO  Log1 - MyAppExit End

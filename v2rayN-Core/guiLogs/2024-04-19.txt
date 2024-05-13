@@ -1,0 +1,6 @@
+2024-04-19 12:51:41,861 [1] INFO  Log1 - v2rayN start up | v2rayN - V5.39 - 2022/12/13 | C:\v2rayN-Core\v2rayN-Core\v2rayN.exe
+2024-04-19 12:52:42,131 [4] INFO  Log1 - UpdateTaskRun
+2024-04-19 15:44:16,227 [1] INFO  Log1 - MyAppExit Begin
+2024-04-19 15:44:16,384 [1] INFO  Log1 - MyAppExit End
+2024-04-19 23:57:59,522 [1] INFO  Log1 - v2rayN start up | v2rayN - V5.39 - 2022/12/13 | C:\v2rayN-Core\v2rayN-Core\v2rayN.exe
+2024-04-19 23:58:59,835 [4] INFO  Log1 - UpdateTaskRun

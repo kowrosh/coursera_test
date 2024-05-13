@@ -1,0 +1,536 @@
+{
+  "logEnabled": false,
+  "loglevel": "warning",
+  "indexId": "4698639866930821926",
+  "muxEnabled": false,
+  "sysProxyType": 1,
+  "enableStatistics": false,
+  "keepOlderDedupl": false,
+  "statisticsFreshRate": 1,
+  "remoteDNS": "",
+  "domainStrategy4Freedom": "",
+  "defAllowInsecure": false,
+  "domainStrategy": "IPIfNonMatch",
+  "domainMatcher": null,
+  "routingIndex": 2,
+  "enableRoutingAdvanced": true,
+  "ignoreGeoUpdateCore": false,
+  "systemProxyExceptions": "",
+  "systemProxyAdvancedProtocol": "",
+  "autoUpdateInterval": 0,
+  "autoUpdateSubInterval": 0,
+  "checkPreReleaseUpdate": false,
+  "enableSecurityProtocolTls13": false,
+  "trayMenuServersLimit": 30,
+  "inbound": [
+    {
+      "localPort": 10808,
+      "protocol": "socks",
+      "udpEnabled": true,
+      "sniffingEnabled": true,
+      "allowLANConn": false,
+      "user": "root",
+      "pass": "12345678"
+    }
+  ],
+  "vmess": [
+    {
+      "indexId": "5012637983709471171",
+      "configType": 1,
+      "configVersion": 2,
+      "sort": 10,
+      "address": "95.217.152.175",
+      "port": 23924,
+      "id": "631616d8-46c6-497b-e026-d5e51896ba50",
+      "alterId": 0,
+      "security": "auto",
+      "network": "kcp",
+      "remarks": "Mobin",
+      "headerType": "none",
+      "requestHost": "",
+      "path": "6loDB88Qwz",
+      "streamSecurity": "",
+      "allowInsecure": "false",
+      "testResult": "",
+      "subid": "",
+      "flow": "",
+      "sni": "",
+      "alpn": [],
+      "groupId": "",
+      "coreType": null,
+      "preSocksPort": 0,
+      "fingerprint": ""
+    },
+    {
+      "indexId": "5637199270342741057",
+      "configType": 5,
+      "configVersion": 2,
+      "sort": 10,
+      "address": "152.228.206.105",
+      "port": 56576,
+      "id": "7bb98fe4-b74c-494d-a94c-3ea8c924f9e4",
+      "alterId": 0,
+      "security": "none",
+      "network": "tcp",
+      "remarks": "iris-mobin-1",
+      "headerType": "none",
+      "requestHost": "",
+      "path": "",
+      "streamSecurity": "none",
+      "allowInsecure": "False",
+      "testResult": "",
+      "subid": "",
+      "flow": "",
+      "sni": "",
+      "alpn": [],
+      "groupId": "",
+      "coreType": null,
+      "preSocksPort": 0,
+      "fingerprint": null
+    },
+    {
+      "indexId": "4935571224933159501",
+      "configType": 1,
+      "configVersion": 2,
+      "sort": 10,
+      "address": "mli7.cinee.ir",
+      "port": 80,
+      "id": "78fd4de4-017c-40b8-8231-a1998e557ac4",
+      "alterId": 0,
+      "security": "auto",
+      "network": "ws",
+      "remarks": "انگلیس-۱-ملی [Bu7cher] IRAN PING",
+      "headerType": "none",
+      "requestHost": "",
+      "path": "/bannedbook",
+      "streamSecurity": "none",
+      "allowInsecure": "False",
+      "testResult": "",
+      "subid": "",
+      "flow": "",
+      "sni": "",
+      "alpn": [],
+      "groupId": "",
+      "coreType": null,
+      "preSocksPort": 0,
+      "fingerprint": null
+    },
+    {
+      "indexId": "5122285788803944429",
+      "configType": 1,
+      "configVersion": 2,
+      "sort": 10,
+      "address": "95.217.152.175",
+      "port": 46067,
+      "id": "b5e995be-5cc9-438d-b28c-eaea81f804d1",
+      "alterId": 0,
+      "security": "auto",
+      "network": "kcp",
+      "remarks": "HP3",
+      "headerType": "none",
+      "requestHost": "",
+      "path": "342BMbwSAf",
+      "streamSecurity": "none",
+      "allowInsecure": "False",
+      "testResult": "",
+      "subid": "",
+      "flow": "",
+      "sni": "",
+      "alpn": [],
+      "groupId": "",
+      "coreType": null,
+      "preSocksPort": 0,
+      "fingerprint": null
+    },
+    {
+      "indexId": "4912116626094956142",
+      "configType": 5,
+      "configVersion": 2,
+      "sort": 10,
+      "address": "alpha1.shekan.top",
+      "port": 56185,
+      "id": "390d241c-0e58-4427-f0d5-bf1dd09cb81d",
+      "alterId": 0,
+      "security": "none",
+      "network": "ws",
+      "remarks": "Bu7cher",
+      "headerType": "",
+      "requestHost": "",
+      "path": "/",
+      "streamSecurity": "tls",
+      "allowInsecure": "False",
+      "testResult": "",
+      "subid": "",
+      "flow": "",
+      "sni": "",
+      "alpn": [],
+      "groupId": "",
+      "coreType": null,
+      "preSocksPort": 0,
+      "fingerprint": null
+    },
+    {
+      "indexId": "5283040972143920534",
+      "configType": 5,
+      "configVersion": 2,
+      "sort": 10,
+      "address": "test.snapplift.com",
+      "port": 31468,
+      "id": "37c9cc41-8fbc-4279-d1d1-8453f1445026",
+      "alterId": 0,
+      "security": "none",
+      "network": "ws",
+      "remarks": "test",
+      "headerType": "",
+      "requestHost": "test.snapplift.com",
+      "path": "/",
+      "streamSecurity": "tls",
+      "allowInsecure": "False",
+      "testResult": "",
+      "subid": "",
+      "flow": "",
+      "sni": "test.snapplift.com",
+      "alpn": [],
+      "groupId": "",
+      "coreType": null,
+      "preSocksPort": 0,
+      "fingerprint": null
+    },
+    {
+      "indexId": "5652677232093509492",
+      "configType": 5,
+      "configVersion": 2,
+      "sort": 10,
+      "address": "cloud.sadraei.software",
+      "port": 443,
+      "id": "5a849cfa-4c7b-4e21-bda4-0de92836010c",
+      "alterId": 0,
+      "security": "none",
+      "network": "ws",
+      "remarks": "cloud",
+      "headerType": "",
+      "requestHost": "cloud.sadraei.software",
+      "path": "/",
+      "streamSecurity": "tls",
+      "allowInsecure": "False",
+      "testResult": "",
+      "subid": "",
+      "flow": "",
+      "sni": "cloud.sadraei.software",
+      "alpn": [],
+      "groupId": "",
+      "coreType": null,
+      "preSocksPort": 0,
+      "fingerprint": null
+    },
+    {
+      "indexId": "4760664314504989597",
+      "configType": 5,
+      "configVersion": 2,
+      "sort": 10,
+      "address": "razavi.irisdev.net",
+      "port": 443,
+      "id": "29d2f060-8017-4f51-a4b8-a5cbfc9a942d",
+      "alterId": 0,
+      "security": "none",
+      "network": "ws",
+      "remarks": "IRIS",
+      "headerType": "",
+      "requestHost": "razavi.irisdev.net",
+      "path": "/",
+      "streamSecurity": "tls",
+      "allowInsecure": "False",
+      "testResult": "",
+      "subid": "",
+      "flow": "",
+      "sni": "razavi.irisdev.net",
+      "alpn": [],
+      "groupId": "",
+      "coreType": null,
+      "preSocksPort": 0,
+      "fingerprint": null
+    },
+    {
+      "indexId": "4698639866930821926",
+      "configType": 5,
+      "configVersion": 2,
+      "sort": 10,
+      "address": "cloud.sadraei.software",
+      "port": 443,
+      "id": "5a849cfa-4c7b-4e21-bda4-0de92836010c",
+      "alterId": 0,
+      "security": "none",
+      "network": "ws",
+      "remarks": "cloud",
+      "headerType": "",
+      "requestHost": "cloud.sadraei.software",
+      "path": "/",
+      "streamSecurity": "tls",
+      "allowInsecure": "False",
+      "testResult": "",
+      "subid": "",
+      "flow": "",
+      "sni": "cloud.sadraei.software",
+      "alpn": [],
+      "groupId": "",
+      "coreType": null,
+      "preSocksPort": 0,
+      "fingerprint": null
+    }
+  ],
+  "kcpItem": {
+    "mtu": 1350,
+    "tti": 50,
+    "uplinkCapacity": 12,
+    "downlinkCapacity": 100,
+    "congestion": false,
+    "readBufferSize": 2,
+    "writeBufferSize": 2
+  },
+  "subItem": [],
+  "uiItem": {
+    "enableAutoAdjustMainLvColWidth": true,
+    "mainLocation": "555, 278",
+    "mainSize": "1298, 1609",
+    "mainLvColWidth": {
+      "def": 30,
+      "configType": 80,
+      "remarks": 480,
+      "address": 494,
+      "port": 100,
+      "security": 120,
+      "network": 120,
+      "streamSecurity": 100,
+      "subRemarks": 100,
+      "testResult": 120
+    }
+  },
+  "routings": [
+    {
+      "remarks": "绕过大陆(Whitelist)",
+      "url": "",
+      "rules": [
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "direct",
+          "ip": null,
+          "domain": [
+            "domain:example-example.com",
+            "domain:example-example2.com"
+          ],
+          "protocol": null,
+          "enabled": true
+        },
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "block",
+          "ip": null,
+          "domain": [
+            "geosite:category-ads-all"
+          ],
+          "protocol": null,
+          "enabled": true
+        },
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "direct",
+          "ip": null,
+          "domain": [
+            "geosite:cn"
+          ],
+          "protocol": null,
+          "enabled": true
+        },
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "direct",
+          "ip": [
+            "geoip:private",
+            "geoip:cn"
+          ],
+          "domain": null,
+          "protocol": null,
+          "enabled": true
+        },
+        {
+          "type": null,
+          "port": "0-65535",
+          "inboundTag": null,
+          "outboundTag": "proxy",
+          "ip": null,
+          "domain": null,
+          "protocol": null,
+          "enabled": true
+        }
+      ],
+      "enabled": true,
+      "locked": false,
+      "customIcon": null
+    },
+    {
+      "remarks": "黑名单(Blacklist)",
+      "url": "",
+      "rules": [
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "direct",
+          "ip": null,
+          "domain": null,
+          "protocol": [
+            "bittorrent"
+          ],
+          "enabled": true
+        },
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "block",
+          "ip": null,
+          "domain": [
+            "geosite:category-ads-all"
+          ],
+          "protocol": null,
+          "enabled": true
+        },
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "proxy",
+          "ip": [
+            "geoip:telegram"
+          ],
+          "domain": [
+            "geosite:gfw",
+            "geosite:greatfire",
+            "geosite:tld-!cn"
+          ],
+          "protocol": null,
+          "enabled": true
+        },
+        {
+          "type": null,
+          "port": "0-65535",
+          "inboundTag": null,
+          "outboundTag": "direct",
+          "ip": null,
+          "domain": null,
+          "protocol": null,
+          "enabled": true
+        }
+      ],
+      "enabled": true,
+      "locked": false,
+      "customIcon": null
+    },
+    {
+      "remarks": "全局(Global)",
+      "url": "",
+      "rules": [
+        {
+          "type": null,
+          "port": "0-65535",
+          "inboundTag": null,
+          "outboundTag": "proxy",
+          "ip": null,
+          "domain": null,
+          "protocol": null,
+          "enabled": true
+        }
+      ],
+      "enabled": true,
+      "locked": false,
+      "customIcon": null
+    },
+    {
+      "remarks": "locked",
+      "url": "",
+      "rules": [
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "proxy",
+          "ip": null,
+          "domain": [
+            "geosite:google"
+          ],
+          "protocol": null,
+          "enabled": true
+        },
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "direct",
+          "ip": null,
+          "domain": [
+            "domain:example-example.com",
+            "domain:example-example2.com"
+          ],
+          "protocol": null,
+          "enabled": true
+        },
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "block",
+          "ip": null,
+          "domain": [
+            "geosite:category-ads-all"
+          ],
+          "protocol": null,
+          "enabled": true
+        }
+      ],
+      "enabled": true,
+      "locked": true,
+      "customIcon": null
+    }
+  ],
+  "constItem": {
+    "speedTestUrl": "http://cachefly.cachefly.net/10mb.test",
+    "speedPingTestUrl": "https://www.google.com/generate_204",
+    "defIEProxyExceptions": "localhost;127.*;10.*;172.16.*;172.17.*;172.18.*;172.19.*;172.20.*;172.21.*;172.22.*;172.23.*;172.24.*;172.25.*;172.26.*;172.27.*;172.28.*;172.29.*;172.30.*;172.31.*;192.168.*"
+  },
+  "globalHotkeys": null,
+  "groupItem": [],
+  "coreTypeItem": [
+    {
+      "configType": 1,
+      "coreType": 2
+    },
+    {
+      "configType": 2,
+      "coreType": 2
+    },
+    {
+      "configType": 3,
+      "coreType": 2
+    },
+    {
+      "configType": 4,
+      "coreType": 2
+    },
+    {
+      "configType": 5,
+      "coreType": 2
+    },
+    {
+      "configType": 6,
+      "coreType": 2
+    }
+  ]
+}

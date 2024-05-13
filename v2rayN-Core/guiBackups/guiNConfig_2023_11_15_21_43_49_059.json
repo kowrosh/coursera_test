@@ -1,0 +1,563 @@
+{
+  "logEnabled": false,
+  "loglevel": "warning",
+  "indexId": "4760869453399383936",
+  "muxEnabled": false,
+  "sysProxyType": 1,
+  "enableStatistics": false,
+  "keepOlderDedupl": false,
+  "statisticsFreshRate": 1,
+  "remoteDNS": "",
+  "domainStrategy4Freedom": "",
+  "defAllowInsecure": false,
+  "domainStrategy": "IPIfNonMatch",
+  "domainMatcher": null,
+  "routingIndex": 0,
+  "enableRoutingAdvanced": true,
+  "ignoreGeoUpdateCore": false,
+  "systemProxyExceptions": "",
+  "systemProxyAdvancedProtocol": "",
+  "autoUpdateInterval": 0,
+  "autoUpdateSubInterval": 0,
+  "checkPreReleaseUpdate": false,
+  "enableSecurityProtocolTls13": false,
+  "trayMenuServersLimit": 30,
+  "inbound": [
+    {
+      "localPort": 10808,
+      "protocol": "socks",
+      "udpEnabled": true,
+      "sniffingEnabled": true,
+      "allowLANConn": false,
+      "user": "root",
+      "pass": "12345678"
+    }
+  ],
+  "vmess": [
+    {
+      "indexId": "4786950308868545597",
+      "configType": 5,
+      "configVersion": 2,
+      "sort": 730,
+      "address": "iran-007-join.outline-vpn.cloud",
+      "port": 2087,
+      "id": "884f9b2c-f0c5-44dd-a68e-3e39ce93bb39",
+      "alterId": 0,
+      "security": "none",
+      "network": "ws",
+      "remarks": "Date+07+ID(@Outline_Vpn)",
+      "headerType": "",
+      "requestHost": "cf-wkrs-pages-vless-aoy.pages.dev",
+      "path": "https://www.udomain.hk/sc/customer/case-study?_gl=1*1hsw0bx*_ga*mtewmje1mze2mc4xnjkyotixntu2*_ga_4n38ns1xjw*mty5ndi0mzgxmi40ljaumty5ndi0mzgxmi4wljauma..&_ga=2.87081816.1167400509.1694209387-1102153160.1692921556",
+      "streamSecurity": "tls",
+      "allowInsecure": "False",
+      "testResult": "   127ms",
+      "subid": "",
+      "flow": "",
+      "sni": "cf-wkrs-pages-vless-aoy.pages.dev",
+      "alpn": [],
+      "groupId": "",
+      "coreType": null,
+      "preSocksPort": 0,
+      "fingerprint": null
+    },
+    {
+      "indexId": "5279956290247592861",
+      "configType": 5,
+      "configVersion": 2,
+      "sort": 730,
+      "address": "5165.outline-vpn.cloud",
+      "port": 443,
+      "id": "c688395a-b36b-4071-974b-bc91ac2ad2c4",
+      "alterId": 0,
+      "security": "none",
+      "network": "ws",
+      "remarks": "Date+08+ID(@Outline_Vpn)",
+      "headerType": "",
+      "requestHost": "edtunnel-b6t.pages.dev",
+      "path": "/",
+      "streamSecurity": "tls",
+      "allowInsecure": "False",
+      "testResult": "Timeout",
+      "subid": "",
+      "flow": "",
+      "sni": "edtunnel-b6t.pages.dev",
+      "alpn": [],
+      "groupId": "",
+      "coreType": null,
+      "preSocksPort": 0,
+      "fingerprint": null
+    },
+    {
+      "indexId": "5075654821854961525",
+      "configType": 5,
+      "configVersion": 2,
+      "sort": 730,
+      "address": "iran-009-join.outline-vpn.cloud",
+      "port": 443,
+      "id": "760ffccd-6200-4af7-873f-caf0aa46ea5f",
+      "alterId": 0,
+      "security": "none",
+      "network": "ws",
+      "remarks": "Date+09+ID(@Outline_Vpn)",
+      "headerType": "",
+      "requestHost": "Iggjfl.mahiza.lol",
+      "path": "/mohamad",
+      "streamSecurity": "tls",
+      "allowInsecure": "False",
+      "testResult": "    90ms",
+      "subid": "",
+      "flow": "",
+      "sni": "Kgskjh.mahiza.lol",
+      "alpn": [],
+      "groupId": "",
+      "coreType": null,
+      "preSocksPort": 0,
+      "fingerprint": null
+    },
+    {
+      "indexId": "5159603161019492668",
+      "configType": 5,
+      "configVersion": 2,
+      "sort": 730,
+      "address": "zx------join.outline-vpn.cloud",
+      "port": 443,
+      "id": "884f9b2c-f0c5-44dd-a68e-3e39ce93bb39",
+      "alterId": 0,
+      "security": "none",
+      "network": "ws",
+      "remarks": "Auto+1+ID(@Outline_Vpn)+🛑",
+      "headerType": "",
+      "requestHost": "cf-wkrs-pages-vless-aoy.pages.dev",
+      "path": "/?ed=2048",
+      "streamSecurity": "tls",
+      "allowInsecure": "False",
+      "testResult": "",
+      "subid": "",
+      "flow": "",
+      "sni": "cf-wkrs-pages-vless-aoy.pages.dev",
+      "alpn": [],
+      "groupId": "",
+      "coreType": null,
+      "preSocksPort": 0,
+      "fingerprint": null
+    },
+    {
+      "indexId": "5015981399489187145",
+      "configType": 5,
+      "configVersion": 2,
+      "sort": 730,
+      "address": "3254.outline-vpn.cloud",
+      "port": 8443,
+      "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+      "alterId": 0,
+      "security": "none",
+      "network": "ws",
+      "remarks": "Auto+2+ID(@Outline_Vpn)+🛑",
+      "headerType": "",
+      "requestHost": "baipiao1.curly-train.pages.dev",
+      "path": "/?ed=2048",
+      "streamSecurity": "tls",
+      "allowInsecure": "False",
+      "testResult": "",
+      "subid": "",
+      "flow": "",
+      "sni": "baipiao1.curly-train.pages.dev",
+      "alpn": [],
+      "groupId": "",
+      "coreType": null,
+      "preSocksPort": 0,
+      "fingerprint": null
+    },
+    {
+      "indexId": "5519997882189724565",
+      "configType": 5,
+      "configVersion": 2,
+      "sort": 730,
+      "address": "3254.outline-vpn.cloud",
+      "port": 2053,
+      "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+      "alterId": 0,
+      "security": "none",
+      "network": "ws",
+      "remarks": "Auto+3+ID(@Outline_Vpn)+🛑",
+      "headerType": "",
+      "requestHost": "baipiao1.curly-train.pages.dev",
+      "path": "/?ed=2048",
+      "streamSecurity": "tls",
+      "allowInsecure": "False",
+      "testResult": "",
+      "subid": "",
+      "flow": "",
+      "sni": "baipiao1.curly-train.pages.dev",
+      "alpn": [],
+      "groupId": "",
+      "coreType": null,
+      "preSocksPort": 0,
+      "fingerprint": null
+    },
+    {
+      "indexId": "4812344823544858537",
+      "configType": 5,
+      "configVersion": 2,
+      "sort": 730,
+      "address": "bia2.outline-vpn.cloud",
+      "port": 2087,
+      "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+      "alterId": 0,
+      "security": "none",
+      "network": "ws",
+      "remarks": "Auto+4+ID(@Outline_Vpn)+🛑",
+      "headerType": "",
+      "requestHost": "baipiao1.curly-train.pages.dev",
+      "path": "/?ed=2048",
+      "streamSecurity": "tls",
+      "allowInsecure": "False",
+      "testResult": "",
+      "subid": "",
+      "flow": "",
+      "sni": "baipiao1.curly-train.pages.dev",
+      "alpn": [],
+      "groupId": "",
+      "coreType": null,
+      "preSocksPort": 0,
+      "fingerprint": null
+    },
+    {
+      "indexId": "5756459578614385220",
+      "configType": 5,
+      "configVersion": 2,
+      "sort": 730,
+      "address": "join---------to.outline-vpn.cloud",
+      "port": 8443,
+      "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+      "alterId": 0,
+      "security": "none",
+      "network": "ws",
+      "remarks": "Auto+5+ID(@Outline_Vpn)+🛑",
+      "headerType": "",
+      "requestHost": "baipiao1.curly-train.pages.dev",
+      "path": "/?ed=2048",
+      "streamSecurity": "tls",
+      "allowInsecure": "False",
+      "testResult": "",
+      "subid": "",
+      "flow": "",
+      "sni": "baipiao1.curly-train.pages.dev",
+      "alpn": [],
+      "groupId": "",
+      "coreType": null,
+      "preSocksPort": 0,
+      "fingerprint": null
+    },
+    {
+      "indexId": "5470356994281369019",
+      "configType": 5,
+      "configVersion": 2,
+      "sort": 730,
+      "address": "3254.outline-vpn.cloud",
+      "port": 2096,
+      "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+      "alterId": 0,
+      "security": "none",
+      "network": "ws",
+      "remarks": "Auto+6+ID(@Outline_Vpn)+🛑",
+      "headerType": "",
+      "requestHost": "baipiao1.curly-train.pages.dev",
+      "path": "/?ed=2048",
+      "streamSecurity": "tls",
+      "allowInsecure": "False",
+      "testResult": "   111ms",
+      "subid": "",
+      "flow": "",
+      "sni": "baipiao1.curly-train.pages.dev",
+      "alpn": [],
+      "groupId": "",
+      "coreType": null,
+      "preSocksPort": 0,
+      "fingerprint": null
+    },
+    {
+      "indexId": "4760869453399383936",
+      "configType": 5,
+      "configVersion": 2,
+      "sort": 730,
+      "address": "2001-jooin.outline-vpn.cloud",
+      "port": 2083,
+      "id": "d342d11e-d424-4583-b36e-524ab1f0afa4",
+      "alterId": 0,
+      "security": "none",
+      "network": "ws",
+      "remarks": "Auto+7+ID(@Outline_Vpn)+🛑",
+      "headerType": "",
+      "requestHost": "baipiao1.curly-train.pages.dev",
+      "path": "/?ed=2048",
+      "streamSecurity": "tls",
+      "allowInsecure": "False",
+      "testResult": "   185ms",
+      "subid": "",
+      "flow": "",
+      "sni": "baipiao1.curly-train.pages.dev",
+      "alpn": [],
+      "groupId": "",
+      "coreType": null,
+      "preSocksPort": 0,
+      "fingerprint": null
+    }
+  ],
+  "kcpItem": {
+    "mtu": 1350,
+    "tti": 50,
+    "uplinkCapacity": 12,
+    "downlinkCapacity": 100,
+    "congestion": false,
+    "readBufferSize": 2,
+    "writeBufferSize": 2
+  },
+  "subItem": [],
+  "uiItem": {
+    "enableAutoAdjustMainLvColWidth": true,
+    "mainLocation": "555, 278",
+    "mainSize": "1962, 1044",
+    "mainLvColWidth": {
+      "def": 29,
+      "configType": 80,
+      "remarks": 480,
+      "address": 494,
+      "port": 100,
+      "security": 120,
+      "network": 120,
+      "streamSecurity": 100,
+      "subRemarks": 100,
+      "testResult": 120
+    }
+  },
+  "routings": [
+    {
+      "remarks": "绕过大陆(Whitelist)",
+      "url": "",
+      "rules": [
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "direct",
+          "ip": null,
+          "domain": [
+            "domain:example-example.com",
+            "domain:example-example2.com"
+          ],
+          "protocol": null,
+          "enabled": true
+        },
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "block",
+          "ip": null,
+          "domain": [
+            "geosite:category-ads-all"
+          ],
+          "protocol": null,
+          "enabled": true
+        },
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "direct",
+          "ip": null,
+          "domain": [
+            "geosite:cn"
+          ],
+          "protocol": null,
+          "enabled": true
+        },
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "direct",
+          "ip": [
+            "geoip:private",
+            "geoip:cn"
+          ],
+          "domain": null,
+          "protocol": null,
+          "enabled": true
+        },
+        {
+          "type": null,
+          "port": "0-65535",
+          "inboundTag": null,
+          "outboundTag": "proxy",
+          "ip": null,
+          "domain": null,
+          "protocol": null,
+          "enabled": true
+        }
+      ],
+      "enabled": true,
+      "locked": false,
+      "customIcon": null
+    },
+    {
+      "remarks": "黑名单(Blacklist)",
+      "url": "",
+      "rules": [
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "direct",
+          "ip": null,
+          "domain": null,
+          "protocol": [
+            "bittorrent"
+          ],
+          "enabled": true
+        },
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "block",
+          "ip": null,
+          "domain": [
+            "geosite:category-ads-all"
+          ],
+          "protocol": null,
+          "enabled": true
+        },
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "proxy",
+          "ip": [
+            "geoip:telegram"
+          ],
+          "domain": [
+            "geosite:gfw",
+            "geosite:greatfire",
+            "geosite:tld-!cn"
+          ],
+          "protocol": null,
+          "enabled": true
+        },
+        {
+          "type": null,
+          "port": "0-65535",
+          "inboundTag": null,
+          "outboundTag": "direct",
+          "ip": null,
+          "domain": null,
+          "protocol": null,
+          "enabled": true
+        }
+      ],
+      "enabled": true,
+      "locked": false,
+      "customIcon": null
+    },
+    {
+      "remarks": "全局(Global)",
+      "url": "",
+      "rules": [
+        {
+          "type": null,
+          "port": "0-65535",
+          "inboundTag": null,
+          "outboundTag": "proxy",
+          "ip": null,
+          "domain": null,
+          "protocol": null,
+          "enabled": true
+        }
+      ],
+      "enabled": true,
+      "locked": false,
+      "customIcon": null
+    },
+    {
+      "remarks": "locked",
+      "url": "",
+      "rules": [
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "proxy",
+          "ip": null,
+          "domain": [
+            "geosite:google"
+          ],
+          "protocol": null,
+          "enabled": true
+        },
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "direct",
+          "ip": null,
+          "domain": [
+            "domain:example-example.com",
+            "domain:example-example2.com"
+          ],
+          "protocol": null,
+          "enabled": true
+        },
+        {
+          "type": null,
+          "port": null,
+          "inboundTag": null,
+          "outboundTag": "block",
+          "ip": null,
+          "domain": [
+            "geosite:category-ads-all"
+          ],
+          "protocol": null,
+          "enabled": true
+        }
+      ],
+      "enabled": true,
+      "locked": true,
+      "customIcon": null
+    }
+  ],
+  "constItem": {
+    "speedTestUrl": "http://cachefly.cachefly.net/10mb.test",
+    "speedPingTestUrl": "https://www.google.com/generate_204",
+    "defIEProxyExceptions": "localhost;127.*;10.*;172.16.*;172.17.*;172.18.*;172.19.*;172.20.*;172.21.*;172.22.*;172.23.*;172.24.*;172.25.*;172.26.*;172.27.*;172.28.*;172.29.*;172.30.*;172.31.*;192.168.*"
+  },
+  "globalHotkeys": null,
+  "groupItem": [],
+  "coreTypeItem": [
+    {
+      "configType": 1,
+      "coreType": 2
+    },
+    {
+      "configType": 2,
+      "coreType": 2
+    },
+    {
+      "configType": 3,
+      "coreType": 2
+    },
+    {
+      "configType": 4,
+      "coreType": 2
+    },
+    {
+      "configType": 5,
+      "coreType": 2
+    },
+    {
+      "configType": 6,
+      "coreType": 2
+    }
+  ]
+}
